@@ -8,7 +8,7 @@
         <version>3.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jatinc.s8</groupId>
+    <groupId>com.jatinc.ebank</groupId>
     <artifactId>virtual-bank-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>virtual-bank-server</name>
